@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(73, 72, 72);
+    font-family: 'Georia', sans-serif;
+    color: white;
+}
+    a {
+        color: grey;
+    
+    }
+    li {
+        font-size: 120%;
+    }
+    p {
+        font-size: 150%;
+    }
+
+    
