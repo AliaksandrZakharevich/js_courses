@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+
+.header {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.sidebar {
+    top: 1%;
+    left: 1%;
+    position: fixed;
+    width: 10%;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+a {
+    display: block;
+    width: 115px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10%;
+    color: white;
+    padding: 10px;
+    background-color: RGB(45, 45, 45);
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.sidebar a:hover {
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+}
+
+.centralblock {
+    height: 70%;
+    position: relative;
+    background-color: white;
+    margin: 1% 5%;
+    border-radius: 10px;
+    color: black;
+    padding: 7%;
+}
+
+.footer {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 15%;
+    border-radius: 10px;
+
+}
