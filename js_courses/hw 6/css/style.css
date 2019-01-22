@@ -1,0 +1,17 @@
+body{
+    background-color:white;
+}
+
+.btn-success {
+    background-color: black;
+} 
+.btn-success:hover{
+    background-color: yellow;
+}
+table {
+    width: 100%;
+}
+
+#delete{
+    visibility: hidden;
+}
